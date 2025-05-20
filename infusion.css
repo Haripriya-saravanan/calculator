@@ -1,0 +1,29 @@
+#division{
+    border: 5px solid black;
+    text-align: center;
+    background-color: bisque;
+}
+body{
+    display :flex;
+    justify-content: center;
+    margin-top: 110px;
+}
+input{
+    width:50%
+}
+#dose{
+    margin-left: 90px;
+   
+}
+#btn{
+    margin-top: 10px;
+}
+#result{
+    margin-top: 10px;
+}
+p{
+    color:magenta;
+}
+span{
+    color:red
+}
